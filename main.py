@@ -35,7 +35,7 @@ class QRCodeGenerator:
 
         tk.Label(self.root, text="Email: m.boorboor315@gmail.com").grid(row=3, column=0, padx=10, pady=10)
 
-        tk.Label(self.root, text="Github: www.github.com/mohammadboorboor").grid(row=4, column=0, padx=10, pady=10)
+        tk.Label(self.root, text="Github: www.github.com/Mhmdboorboor").grid(row=4, column=0, padx=10, pady=10)
 
         # Create a button to generate the QR code
         generate_button = tk.Button(self.root, text="Generate QR Code", command=self.generate_qr_code)
