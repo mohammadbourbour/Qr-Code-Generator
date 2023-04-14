@@ -1,0 +1,4 @@
+qrcode==7.3
+tkinter
+os
+tempfile
