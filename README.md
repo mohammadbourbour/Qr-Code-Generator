@@ -10,6 +10,7 @@ Install the required packages using pip:
 pip install -r requirements.txt
 
 # Usage
+
 Open a terminal or command prompt and navigate to the project directory.
 Run the following command to start the application:
 
@@ -21,11 +22,3 @@ The QR code preview will be displayed in the canvas. You can save the QR code as
 
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or a pull request.
-
-# Donations
-
-If you found this script helpful and would like to support the developer, you can send a donation to the following wallet address:
-
-Ethereum: 0xD284D48F4a380140ad135B0A21C7030581C2CA34
-
-Your donations are greatly appreciated and will help support the development of this and other open-source projects. Thank you for your support!
